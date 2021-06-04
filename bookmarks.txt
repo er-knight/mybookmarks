@@ -1,0 +1,15 @@
+https://fun-javascript-projects.com/
+https://bash.cyberciti.biz/guide/Main_Page
+https://web.dev/learn/css/
+https://dev.to/kalpitrathore/how-to-get-time-spent-by-users-on-a-webpage-using-node-js-530f
+https://github.com/markodenic/web-development-resources
+https://medium.com/codex/you-wont-make-it-far-without-knowing-how-to-work-with-data-8aeb94661d6
+https://realpython.com/learning-paths/perfect-your-python-development-setup/
+https://imagemagick.org/script/develop.php
+https://play.rust-lang.org/
+https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+https://realpython.com/embedded-python/
+https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/
+http://www2.cs.uregina.ca/~hamilton/courses/330/notes/index.html
+https://hackernoon.com/synchronization-primitives-in-python-564f89fee732
+https://opensource.com/article/18/3/creating-bash-completion-script

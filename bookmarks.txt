@@ -14,3 +14,4 @@ http://www2.cs.uregina.ca/~hamilton/courses/330/notes/index.html
 https://hackernoon.com/synchronization-primitives-in-python-564f89fee732
 https://opensource.com/article/18/3/creating-bash-completion-script
 https://github.com/luong-komorebi/Awesome-Linux-Software
+https://glitch.com/create-project

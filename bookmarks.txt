@@ -15,3 +15,4 @@ https://hackernoon.com/synchronization-primitives-in-python-564f89fee732
 https://opensource.com/article/18/3/creating-bash-completion-script
 https://github.com/luong-komorebi/Awesome-Linux-Software
 https://glitch.com/create-project
+https://roadmap.sh/guides/design-patterns-for-humans

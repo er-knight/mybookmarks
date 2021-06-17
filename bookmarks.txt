@@ -16,3 +16,4 @@ https://opensource.com/article/18/3/creating-bash-completion-script
 https://github.com/luong-komorebi/Awesome-Linux-Software
 https://glitch.com/create-project
 https://roadmap.sh/guides/design-patterns-for-humans
+https://www.canva.com/learn/sans-serif-fonts/

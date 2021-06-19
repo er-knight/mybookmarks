@@ -18,3 +18,5 @@ https://glitch.com/create-project
 https://roadmap.sh/guides/design-patterns-for-humans
 https://www.canva.com/learn/sans-serif-fonts/
 https://github.com/academic/awesome-datascience
+https://makevscodeawesome.com/
+https://themes.vscode.one/

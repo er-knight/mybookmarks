@@ -21,3 +21,4 @@ https://github.com/academic/awesome-datascience
 https://makevscodeawesome.com/
 https://themes.vscode.one/
 https://github.com/lydiahallie/javascript-questions
+https://developers.google.com/machine-learning/crash-course/

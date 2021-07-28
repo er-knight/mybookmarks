@@ -39,3 +39,7 @@ https://beej.us/guide/bgnet/html//index.html
 https://github.com/akshitagit
 https://support.system76.com/articles/switch-from-macos-to-popos
 https://inventwithpython.com/bigbookpython/
+https://craftinginterpreters.com/contents.html
+https://dev.to/chroline/visualizing-algorithm-runtimes-in-python-f92
+https://dev.to/manvityagi9/my-placements-journey-4m0g
+https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn

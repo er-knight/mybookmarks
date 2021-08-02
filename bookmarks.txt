@@ -46,3 +46,4 @@ https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn
 https://websitesetup.org/css3-cheat-sheet/
 https://realpython.com/what-can-i-do-with-python/
 https://selftaught-dev.com/project-archive
+https://www.blobbb.fun/

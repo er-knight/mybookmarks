@@ -47,3 +47,13 @@ https://websitesetup.org/css3-cheat-sheet/
 https://realpython.com/what-can-i-do-with-python/
 https://selftaught-dev.com/project-archive
 https://www.blobbb.fun/
+https://github.com/h5bp/html5-boilerplate
+https://github.com/framework7io/framework7
+https://github.com/tabler/tabler
+https://github.com/google/material-design-lite
+https://github.com/phuoc-ng/html-dom
+https://github.com/shower/shower
+https://github.com/kangax/html-minifier
+https://github.com/diegocard/awesome-html5
+https://github.com/pixelsign/html5-device-mockups
+https://github.com/murtaugh/HTML5-Reset

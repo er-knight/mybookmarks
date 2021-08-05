@@ -57,3 +57,6 @@ https://github.com/kangax/html-minifier
 https://github.com/diegocard/awesome-html5
 https://github.com/pixelsign/html5-device-mockups
 https://github.com/murtaugh/HTML5-Reset
+https://github.com/dypsilon/frontend-dev-bookmarks
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/RitikPatni/Front-End-Web-Development-Resources

@@ -60,3 +60,4 @@ https://github.com/murtaugh/HTML5-Reset
 https://github.com/dypsilon/frontend-dev-bookmarks
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/RitikPatni/Front-End-Web-Development-Resources
+https://github.com/leonardomso/33-js-concepts

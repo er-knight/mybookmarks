@@ -62,3 +62,6 @@ https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/RitikPatni/Front-End-Web-Development-Resources
 https://github.com/leonardomso/33-js-concepts
 https://www.frontendpractice.com/
+https://www.codewell.cc/subscription
+https://cssbattle.dev/
+https://coderbyte.com/

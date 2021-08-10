@@ -65,3 +65,4 @@ https://www.frontendpractice.com/
 https://www.codewell.cc/subscription
 https://cssbattle.dev/
 https://coderbyte.com/
+https://github.com/marmelab/json-graphql-server

@@ -12,3 +12,4 @@ if __name__ == "__main__":
     bookman(url)
 
 # NOTE : git commit -a -m "." && git push origin main
+
